@@ -16,6 +16,14 @@ This function performs the core task of calculating the total bill per person. I
 
 These functions enable users to easily adjust the number of people sharing the bill. The interface updates in real-time, providing a convenient way to manage the split among a group.
 
+## Tech Stack 💻
+
+- Replit
+- Visual Studio Code
+- HTML
+- CSS
+- JavaScript
+
 ## Implementation 🚀
 
 The project employs HTML for structuring the content, CSS for styling, and JavaScript for dynamic functionality. The choice of the 'M PLUS Rounded 1c' font and the color scheme contributes to a visually pleasing and cohesive design.
